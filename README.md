@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/wyk-qyf/pylof.svg?branch=master)](https://travis-ci.org/wyk-qyf/pylof)
 pylof
 =====
 [![Build Status](https://travis-ci.org/damjankuznar/pylof.png?branch=master)](https://travis-ci.org/damjankuznar/pylof)
